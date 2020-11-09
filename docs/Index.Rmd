@@ -11,6 +11,8 @@ output:
 params: 
   data_dir: !r file.path("data/starwars.rds")
   list_vars: !r c("films", "vehicles", "starships")
+
+always_allow_html: true
 ---
 
 ```{r setup, include=FALSE}
