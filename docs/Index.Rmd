@@ -32,7 +32,7 @@ knitr::opts_chunk$set(warning = FALSE,
 
 # Objectives
 
-This document provides some exercises to improve your understanding of R Markdown. Please see the [accompanying slides](https://mjfrigaard.github.io/rep-res-rmarkdown.github.io/Index.html#1) for more information.
+This document provides some exercises to improve your understanding of R Markdown. Please see the [accompanying slides](https://mjfrigaard.github.io/rep-res-rmarkdown/Index.html) and [RStudio Project](https://rstudio.cloud/project/1859537) for more information
 
 ## Create a new R Markdown file {.tabset}
 
